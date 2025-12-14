@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "長い間",
+  "base_artist": "Kiroro",
+  "createdAt": "2025-12-14T07:49:54.057103Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "長い間",
+      "artist": "Kiroro",
+      "has_synced": true,
+      "path": "select/01_長い間_Kiroro.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "長い間",
+      "artist": "Kiroro",
+      "has_synced": true,
+      "path": "select/02_長い間_Kiroro.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "長い間",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/03_長い間_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "長い間",
+      "artist": "キロロ",
+      "has_synced": true,
+      "path": "select/04_長い間_キロロ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "長い間",
+      "artist": "Kiroro",
+      "has_synced": true,
+      "path": "select/05_長い間_Kiroro.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "長い間",
+      "artist": "島谷ひとみ",
+      "has_synced": false,
+      "path": "select/06_長い間_島谷ひとみ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "長い間",
+      "artist": "キロロ",
+      "has_synced": true,
+      "path": "select/07_長い間_キロロ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "長い間(original karaoke)",
+      "artist": "キロロ",
+      "has_synced": true,
+      "path": "select/08_長い間(original_karaoke)_キロロ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "長い間",
+      "artist": "夏川りみ",
+      "has_synced": true,
+      "path": "select/09_長い間_夏川りみ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "長い間 - Nagai Aida",
+      "artist": "Kiroro",
+      "has_synced": true,
+      "path": "select/10_長い間_-_Nagai_Aida_Kiroro.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "長い間",
+      "artist": "Kiroro",
+      "has_synced": true,
+      "path": "select/11_長い間_Kiroro.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "長い間",
+      "artist": "Kiroro",
+      "has_synced": true,
+      "path": "select/12_長い間_Kiroro.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "長い間",
+      "artist": "Kiroro",
+      "has_synced": true,
+      "path": "select/13_長い間_Kiroro.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "長い間 - Remastered",
+      "artist": "Kiroro",
+      "has_synced": true,
+      "path": "select/14_長い間_-_Remastered_Kiroro.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "長い間",
+      "artist": "Ms.OOJA",
+      "has_synced": false,
+      "path": "select/15_長い間_Ms.OOJA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "長い間",
+      "artist": "Kiroro",
+      "has_synced": false,
+      "path": "select/pl_01_長い間_Kiroro.txt"
+    }
+  ]
+}
